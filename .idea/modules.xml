@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/coursera-test.iml" filepath="$PROJECT_DIR$/.idea/coursera-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fullstack-course4/fullstack-course4.iml" filepath="$PROJECT_DIR$/../fullstack-course4/fullstack-course4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fullstack-course5/fullstack-course5.iml" filepath="$PROJECT_DIR$/../fullstack-course5/fullstack-course5.iml" />
     </modules>
   </component>
 </project>
